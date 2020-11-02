@@ -1,0 +1,6 @@
+[submodule "cursodocker-api"]
+	path = cursodocker-api
+	url = https://github.com/labtrackensino/cursodocker-api.git
+[submodule "cursodocker-front"]
+	path = cursodocker-front
+	url = https://github.com/labtrackensino/cursodocker-front.git
